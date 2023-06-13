@@ -96,7 +96,7 @@ def CadastroDeUsuarios():
 Com seu email e sua senha realize o login no seguinte link:
 
 ---
-https://9box.eucatur.com.br/
+https://nineboxeucatur.streamlit.app/
 ---""")
 
                     else:
