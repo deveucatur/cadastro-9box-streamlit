@@ -55,7 +55,7 @@ with st.form('Esqueceu a senha'):
 
                 st.info('''Dados de login alterados com sucesso
                     
-Basta fazer o [login](https://9box.eucatur.com.br/) na tela principal do sistema 9Box.''') 
+Basta fazer o [login](https://nineboxeucatur.streamlit.app/) na tela principal do sistema 9Box.''') 
             else:
                 st.error("O e-mail só pode conter letras minúsculas.")
         else:
